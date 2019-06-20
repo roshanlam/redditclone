@@ -1,2 +1,2 @@
 # redditclone
-A Clone of Reddit
+Made this Reddit Clone Just For Fun. 
